@@ -9,4 +9,12 @@ I'm a third year undergrad student studying Electronics and Communication engine
 
 <img src="https://keras.io/img/logo.png" alt="Keras" width="140"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png" alt="Tensorflow" width="130"/> <img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/Introduction-to-TorchScript.png" alt="Pytorch" width="120"/> 
 
+### Find me on:
+
+Medium : https://medium.com/@hrithicksen1999
+
+LinkedIn: https://www.linkedin.com/in/hrithick-sen-58ab1619b/
+
+Gmail: hrithicksen1999@gmail.com
+
 
