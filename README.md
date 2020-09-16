@@ -1,4 +1,4 @@
 # Hi, I'm Ricky 👋👨‍💻
 
 ## Skills:
-![Images](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg =100x20)
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77c883b19775c25838d2055fc2e7387e/scikit-learn.png" alt="scikit_learn" width="200"/>
