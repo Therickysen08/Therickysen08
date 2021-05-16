@@ -42,7 +42,7 @@
 
 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/therickysen08">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=therickysen08&show_icons=true&theme=light&line_height=27" alt="Hrithick's github stats"/>
 </a>
 
