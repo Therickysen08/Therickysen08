@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Computer Vision.
 - 🌱 I’m currently learning more about Machine Learning.
-- 💬 Ask me about Machine learning or any tech related stuff.
+- 💬 Ask me about Machine Learning or any tech related stuff.
 - ⚡ Fun fact: I love **tensorlow.compat.v1** more than **tf.keras**.
 
 
