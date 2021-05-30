@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on Computer Vision.
 - 🌱 I’m currently learning more about Machine Learning.
 - 💬 Ask me about Machine Learning or any tech related stuff.
-- ⚡ Fun fact: I love **tensorlow.compat.v1** more than **tf.keras**.
+- ⚡ Fun fact: I love **tf.compat.v1** more than **tf.keras**.
 
 
 [![Linkedin: Hrithick Sen](https://img.shields.io/badge/-HrithickSen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/hrithick-sen-58ab1619b)
